@@ -8,7 +8,7 @@
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
 ## What am I working on?
-I'm currently working on [LogTracer](https://github.com/kallemickelborg/logtracer), a project I started because of my experience with missing or lacking observability frameworks for creating AI Agents.
+I'm currently working on [NodeTracer](https://github.com/kallemickelborg/nodetracer), a project I started because of my experience with missing or lacking observability frameworks for creating AI Agents.
 
 ### What else?
 - [Stateful AI Agent for Knowledge Extraction in Medical Research](https://github.com/kallemickelborg/stateful-ai-agent)
