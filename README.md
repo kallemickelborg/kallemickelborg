@@ -7,23 +7,14 @@
 ![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 
+> Building observability tooling for AI agents
+
+🔗 **[mickelb.org](https://mickelb.org/)**
+
 ## What am I working on?
 I'm currently working on [NodeTracer](https://github.com/kallemickelborg/nodetracer), a project I started because of my experience with missing or lacking observability frameworks for creating AI Agents.
 
-### What else?
-- [Stateful AI Agent for Knowledge Extraction in Medical Research](https://github.com/kallemickelborg/stateful-ai-agent)
+I am also working on a [Stateful AI Agent](https://github.com/kallemickelborg/stateful-ai-agent), a human-in-the-loop stateful agentic system for information extraction from external PDF files from PubMed for medical research. This system ranks, summarizes and concludes based on the extracted research papers.
 
-<!--
-**kallemickelborg/kallemickelborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+If you want to get in touch with me, send me an email at kalle@mickelb.org
